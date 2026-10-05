@@ -1,4 +1,3 @@
-# InternsElite-MinorProject-1
 # Credit Card Fraud Detection using Machine Learning 
 
 An ML-based Credit Card Fraud Detection System developed using the Random Forest Classifier. The model analyzes transaction patterns and predicts whether a transaction is legitimate or fraudulent.
